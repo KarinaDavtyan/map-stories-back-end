@@ -6,9 +6,22 @@ Map Stories is a location based storytelling app. Editors can create map based s
 ## Motivation
 People have a difficult time understanding stories that take place on an unfamiliar map. By locating the narrative key points of a story on a map, Map Stories help story makers orient their viewers.
 
+## Dependencies
+
+- Node
+- MongoDB
+
+## Installation
+
+- Clone this repo and cd into it
+- Run `npm install`
+- Run `cd server`
+- Run `npm run dev`
+- Clone the [front-end](https://github.com/fredpinon/map-stories-front-end) repository and follow installation instruction.
+
 ## Installation
 Clone the Map Stories Backend repo from the root folder
-Clone the [Map Stories Frontend]https://github.com/fredpinon/map-stories-front-end) repo, then `$npm i`
+Clone the [Map Stories Frontend](https://github.com/fredpinon/map-stories-front-end) repo, then `$npm i`
 
 ## Usage with Postman
 Download the [Map Stories Collection](https://documenter.getpostman.com/view/2573635/map-story-localhost/71FXBMv).
