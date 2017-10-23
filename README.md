@@ -17,11 +17,7 @@ People have a difficult time understanding stories that take place on an unfamil
 - Run `npm install`
 - Run `cd server`
 - Run `npm run dev`
-- Clone the [front-end](https://github.com/fredpinon/map-stories-front-end) repository and follow installation instruction.
-
-## Installation
-Clone the Map Stories Backend repo from the root folder
-Clone the [Map Stories Frontend](https://github.com/fredpinon/map-stories-front-end) repo, then `$npm i`
+- Clone the [front-end](https://github.com/fredpinon/map-stories-front-end) repository and follow installation instructions.
 
 ## Usage with Postman
 Download the [Map Stories Collection](https://documenter.getpostman.com/view/2573635/map-story-localhost/71FXBMv).
